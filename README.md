@@ -1,4 +1,4 @@
-# Character-Level Symbolic Recurrence Biomarker for Dementia Detection
+# Character-Level Symbolic Recurrence Biomarker for Precision Assessment of Cognitive Decline
 
 Code for: "Character-level linguistic biomarkers for precision assessment of cognitive decline: a symbolic recurrence approach" (Frontiers in Aging Neuroscience, 2025).
 
